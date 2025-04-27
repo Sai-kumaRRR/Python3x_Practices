@@ -4,25 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e450c8a5-0ba5-4904-8a31-6c9a898b47ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject4x.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics_Practice/__init__.py" afterDir="false" />
+    <list default="true" id="e450c8a5-0ba5-4904-8a31-6c9a898b47ea" name="Changes" comment="27th April 2025">
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/April/Lab18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/Functions/Lab19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics_Practice/Functions/Lab20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2wIAkuh6dWcuDPAegdHdzwlsg5H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,12 +43,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab02.executor": "Run",
+    "Python.Lab12.executor": "Run",
+    "Python.Lab13.executor": "Run",
+    "Python.Lab14.executor": "Run",
+    "Python.Lab19.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Lab19">
     <configuration name="Lab02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject4x" />
       <option name="ENV_FILES" value="" />
@@ -79,8 +75,100 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics_Practice/April" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics_Practice/April/Lab12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics_Practice/April" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics_Practice/April/Lab13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics_Practice/April" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics_Practice/April/Lab14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics_Practice/Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics_Practice/Functions/Lab19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab19" />
+        <item itemvalue="Python.Lab14" />
+        <item itemvalue="Python.Lab13" />
+        <item itemvalue="Python.Lab12" />
         <item itemvalue="Python.Lab02" />
       </list>
     </recent_temporary>
@@ -101,6 +189,19 @@
       <option name="presentableId" value="Default" />
       <updated>1745718861195</updated>
     </task>
+    <task id="LOCAL-00001" summary="27th April 2025">
+      <option name="closed" value="true" />
+      <created>1745725061608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745725061608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="27th April 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="27th April 2025" />
   </component>
 </project>
