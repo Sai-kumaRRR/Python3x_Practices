@@ -1,5 +1,5 @@
-# Python 3x Learning - ATB 
-https://sdet.live/python0x
+# Python 4x Learning - ATB 
+
 
 Below are the key topics to learn in Python, organized as bullet points for easy reference:
 
