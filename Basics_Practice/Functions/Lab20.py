@@ -10,11 +10,16 @@ def say_hello(name):  # no return type and with arguments
     print("Hello", name)
     say_hello("SAI")
 
+
+def say_hello_args2(param, param1):
+    pass
+
+
 def say_hello_args(name, age):  # no return type and with arguments
     print("Hello", name)
     say_hello_args("Sai", 26)
-    say_hello_args("Amit"
-    age: 34)
+    say_hello_args2("Amit",45)
+
 
 def say_hello_arg_default(name:"Sai"):  # no return type
     print("Hello", name)
